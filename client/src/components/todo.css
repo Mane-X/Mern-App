@@ -1,0 +1,27 @@
+.dashboard {
+	background-image: url("../images/fish.png");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.content {
+	margin: auto;
+	width: 50%;
+}
+.cardInformation {
+	padding: 20px;
+}
+.cardCars {
+	padding: 30px;
+}
+.cardCars h3 {
+	color: white;
+}
+.dashboard h1 {
+	color: white;
+}
+
+.dashboard h3 {
+	color: white;
+}

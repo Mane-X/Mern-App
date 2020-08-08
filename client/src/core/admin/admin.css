@@ -1,0 +1,41 @@
+.adminLayout{
+    background-image: url("https://w.wallhaven.cc/full/49/wallhaven-49z8ow.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.adminForm{
+    background-image: url("../../images/bridge.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.adminDetailsForm{
+    width: 50%;
+    margin: auto;
+    color: white;
+}
+.adminForm h1{
+    color: white;
+}
+.adminForm p{
+    color: white;
+}
+.privateContent{
+    width: 50%;
+    margin: auto;
+}
+.private{
+    background-image: url("../../images/newyork.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.private h1{
+    color: white;
+
+}

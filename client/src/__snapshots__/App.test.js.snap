@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div
+  className="text-center home"
+>
+  <br />
+  <div
+    className="jumbotron jumbotron-fluid"
+  >
+    <div
+      className="container"
+    >
+      <h1>
+        Vintage Automobiles
+      </h1>
+      <hr />
+      <h6
+        className="lead"
+      >
+        Class Comes First
+      </h6>
+      <a
+        className="btn btn-outline-dark"
+        href="/signin"
+      >
+        Lets Get Started
+      </a>
+    </div>
+  </div>
+</div>
+`;

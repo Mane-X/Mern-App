@@ -1,0 +1,37 @@
+.formTask {
+	width: 50%;
+	margin: auto;
+	color: rgb(92, 92, 92);
+}
+.formTask .inputTask {
+    width: 100%;
+}
+.jumbotron{
+    background: darkmagenta;
+}
+.tableTasks{
+    background-image: url("../../images/newyork.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.adminTaskToSales{
+    background-image: url("../../images/night.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.adminTaskToSales h1{
+    text-align: center;
+    padding-bottom: 20px;
+    text-transform: capitalize;
+}
+.tableTasks .table{
+    width: 50%;
+    margin: auto;
+
+}
